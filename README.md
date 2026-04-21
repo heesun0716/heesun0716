@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 👩‍💻 Profile: Heeseon You
 "Logical Thinking, Consistent Growth."
@@ -32,4 +31,4 @@ Notion: 개인 학습 아카이빙 및 프로젝트 로드맵 관리
 VS Code: C/Python 개발 환경 구축 및 효율적인 디버깅 연습
 
 Tech-English: 최신 기술 스택 이해를 위한 기술 용어 및 독해 능력 배양
--->
+
